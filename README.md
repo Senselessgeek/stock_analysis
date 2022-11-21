@@ -18,7 +18,7 @@
 ## Results
   What we have found in our results is that while in 2017 stonks only go up, but in 2018 stonks go down.  With two exceptions in ENPH and RUN, based on our very limited data, I would suggest they dump everything in those two stonks and ride to eternity, DIAMOND HANDS!!!
   
-![2017 Results](resources/2017.png) | ![2018 Results](resources/2018.png)
+![2017 Results](Resources/2017.png) | ![2018 Results](Resources/2018.png)
 
 After reFactoring the code there was a noticable difference in the runtime speed, I absolutely could tell the difference between .3 seconds to run and 0.05 seconds to run, I totally would notice that while working with constant interuptions on a warehouse floor or being micromanaged by a manager.  Maybe when Steve's parents decide to expand their horizons or Steve decides he was wants to look at real historical data, a 83% reduction will be noticable once it takes longer than an ADHD distraction.
 
@@ -26,19 +26,19 @@ After reFactoring the code there was a noticable difference in the runtime speed
 
 #### 2017 Before Image
 
-![2017 Before](resources/VBA_Challenge_Original_2017.png)
+![2017 Before](Resources/VBA_Challenge_Original_2017.png)
 
 #### 2017 After Image
 
-![2017 After](resources/VBA_Challenge_2017.png)
+![2017 After](Resources/VBA_Challenge_2017.png)
 
 #### 2018 Before Image
 
-![2018 Before](resources/VBA_Challenge_Original_2018.png)
+![2018 Before](Resources/VBA_Challenge_Original_2018.png)
 
 #### 2018 After Image
 
-![2018 After](resources/VBA_Challenge_2018.png)
+![2018 After](Resources/VBA_Challenge_2018.png)
 
 ## Code Snippet
 
